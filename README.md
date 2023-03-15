@@ -56,7 +56,24 @@ Rapido operates on a [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_
 Rapido has been expanding its services across India and has announced plans to launch in other countries. The company is also exploring the possibility of electric two-wheelers as part of its fleet.
 
 ### ***Funding***
-Rapido has raised a total of $310.4M in funding over 10 rounds. Their latest funding was raised on Apr 15, 2022 from a Series D round.
+Rapido has raised a total of $310.4M in funding over 10 rounds. Their latest funding was raised on Apr 15, 2022 from a Series D round. More information could be found [here](https://www.crunchbase.com/organization/rapido/company_financials).
+## ***5.Ghoom.bike***
+Ghoom is an Electric Scooter and Battery Rental and Subscription Platform, incubated at Harvard Innovation Labs in India. Ghoom is an integrated & shared e-mobility platform that offers electric two-wheelers on rentals and subscriptions in Delhi NCR. Founded in Apr 13, 2018 by Aishwarya Kachhal. Ghoom offers personal and affordable electric scooters and batteries rentals & subscriptions to match the usage
+
+### ***Services***
+Ghoom.bike operates on a self-drive model, which means that customers must have a valid driver's license in order to rent and drive one of the company's bikes. The company also offers long-term rental options for customers who need a bike for an extended period of time. Additionally, Ghoom.bikes offers a range of other services, including bike maintenance and repair, and roadside assistance in case of breakdowns or other issues. They do provide bike maintenance and repair services through their tie-ups with local bike mechanics and workshops in the cities where they operate. I gess their current operation area is Delhi.
+### ***Business Model***
+Ghoom.bikes operates on a rental model, where customers pay a fee to rent a bike for a specified period of time. The company earns revenue through the rental fees charged to customers, as well as through additional services such as maintenance and repair.
+
+### ***Expansion***
+I didn't find any exact data but what i found in third party articals is that Ghoom.bikes is currently focused on expanding its services within India, with a particular focus on major cities such as Mumbai, Pune, and Bangalore. The company has also expressed interest in expanding to other countries in the future, although no specific plans have been announced.
+
+### ***Finding***
+I didn't find information about their fundings, So it is not clear whether it has raised funding from external investors.
+
+
+
+
 
 
 
