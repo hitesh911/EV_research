@@ -70,7 +70,7 @@ I didn't find any exact data but what i found in third party articals is that Gh
 
 ### ***Finding***
 I didn't find information about their fundings, So it is not clear whether it has raised funding from external investors.
-## *** 6. BluSmart***
+## ***6. BluSmart***
 BluSmart was co-founded on 14 January 2019[4] by Anmol Singh Jaggi, Puneet Singh Jaggi, and Punit K Goyal. In the same month, BluSmart partnered with Mahindra & Mahindra[5] to launch the first batch of EVs on the platform. In September 2019, the company, led by JITO Angel Network, Investment Office of Deepika Padukone, raised an angel round of US$3 million
 ### ***Services***
 BluSmart operates in Gurugram and South Delhi. Users can book a cab using the Android or iOS Mobile App. In June 2020, BluSmart also introduced imulti-hour rentals. BluSmart also launched EV intercity rides from Delhi NCR to Chandigarh, Jaipur
