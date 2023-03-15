@@ -33,6 +33,30 @@ This information is taken from [moneycontrol website](https://www.moneycontrol.c
 ### ***Funding:***
 Ola has raised a total of $5B in funding over 29 rounds. Their latest funding was raised on Feb 22, 2022 from a Series J round. Companies has already crossed mile-stome of [unicorn](https://www.iberdrola.com/innovation/unicorn-companies-technology-startups#:~:text=Unicorn%20companies%20are%20those%20that,dream%20of%20any%20tech%20startup.) Hence they has made 4 investments. Their most recent investment was on Dec 18, 2018, when Vogo raised $100M. The information reference is taken from [crushbase website](https://www.crunchbase.com/organization/ola/company_financials).
 ## 2. ***Uber***
+Uber is a [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_services#:~:text=Ride%20hailing%20services%20are%20apps,cheaper%20than%20using%20licensed%20taxicabs.) company that was founded in 2009 in San Francisco, California by Travis Kalanick and Garrett Camp. The company operates in over 900 [metropolitan areas](https://en.wikipedia.org/wiki/Metropolitan_area) worldwide and offers a range of transportation services including ride-hailing, [carpooling](https://en.wikipedia.org/wiki/Carpool), and food delivery. I loved the web Series based to on this startup's initial struggels named ["Super Pumped: The Battle for Uber
+2022 ‧"](https://www.google.com/search?q=super+pumped&oq=super+pum&aqs=chrome.0.0i355i433i512j46i433i512j69i57j0i512l7.4770j0j7&sourceid=chrome&ie=UTF-8)
+
+### ***Service:***
+Uber offers various services including UberX, UberXL, UberBLACK, and UberPOOL. The company also offers UberEATS, a food delivery service, and Uber Freight, a logistics platform for trucking companies.
+### ***Business Model:***
+Uber operates on a [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_services#:~:text=Ride%20hailing%20services%20are%20apps,cheaper%20than%20using%20licensed%20taxicabs.) model where customers can use the Uber app to request a ride from a nearby driver. The company charges a commission on each ride, and drivers are considered independent contractors rather than employees. Means they will not get any monthly sallary but salary could be calculated by adding all rides left margins.
+### ***Expansion Plans:***
+The platform now allows users to book rides up to 90 days in advance. They will see the upfront price, and receive details about your driver in advance of the trip. The feature is currently expanded for Uber Reserve across most of the US and Canada. More information could be founded in this [artical](https://www.livemint.com/technology/apps/uber-now-allows-users-to-book-rides-up-to-90-days-in-advance-details-inside-11678350969944.html)
+### ***Funding:***
+Uber has raised a total of $25.2B in funding over 32 rounds. Their latest funding was raised on Sep 14, 2020 from a Post-IPO Debt round. Uber is registered under the ticker 
+NYSE:UBER. Their stock opened with $45.00 in its May 9, 2019 IPO. Uber has made 22 investments. Their most recent investment was on Dec 6, 2021, when Serve Robotics raised $13M. Information is taken from [crushBase website](https://www.crunchbase.com/organization/uber/company_financials).
+## ***4. Rapido***
+Rapido is an Indian [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_services#:~:text=Ride%20hailing%20services%20are%20apps,cheaper%20than%20using%20licensed%20taxicabs.) company that offers two-wheeler taxi services. The company was founded in 2015 and is headquartered in Bangalore, India. Rapido currently operates in over 100 cities across India and offers a convenient and affordable transportation solution for short-distance travel in urban areas.
+### ***Services***
+Rapido offers a [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_services#:~:text=Ride%20hailing%20services%20are%20apps,cheaper%20than%20using%20licensed%20taxicabs.) service through its mobile app, allowing customers to book rides on two-wheelers. The company also offers a delivery service called Rapido-Delivery, which allows businesses to deliver their products using Rapido's fleet of two-wheelers. Since Rapido offers two-wheeler taxi services, their fleet consists entirely of motorcycles and scooters.
+### ***Business Model***
+Rapido operates on a [ride-hailing](https://en.wikivoyage.org/wiki/Ride_hailing_services#:~:text=Ride%20hailing%20services%20are%20apps,cheaper%20than%20using%20licensed%20taxicabs.) model where customers can book rides through the mobile app. The company takes a commission on each ride and provides insurance coverage for riders and passengers.
+
+### ***Expansion***
+Rapido has been expanding its services across India and has announced plans to launch in other countries. The company is also exploring the possibility of electric two-wheelers as part of its fleet.
+
+### ***Funding***
+Rapido has raised a total of $310.4M in funding over 10 rounds. Their latest funding was raised on Apr 15, 2022 from a Series D round.
 
 
 
