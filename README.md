@@ -70,6 +70,47 @@ I didn't find any exact data but what i found in third party articals is that Gh
 
 ### ***Finding***
 I didn't find information about their fundings, So it is not clear whether it has raised funding from external investors.
+## *** 6. BluSmart***
+BluSmart was co-founded on 14 January 2019[4] by Anmol Singh Jaggi, Puneet Singh Jaggi, and Punit K Goyal. In the same month, BluSmart partnered with Mahindra & Mahindra[5] to launch the first batch of EVs on the platform. In September 2019, the company, led by JITO Angel Network, Investment Office of Deepika Padukone, raised an angel round of US$3 million
+### ***Services***
+BluSmart operates in Gurugram and South Delhi. Users can book a cab using the Android or iOS Mobile App. In June 2020, BluSmart also introduced imulti-hour rentals. BluSmart also launched EV intercity rides from Delhi NCR to Chandigarh, Jaipur
+
+### ***Business Model***
+BluSmart functions on an asset-light business model. Cars are procured on a monthly lease from companies like [EESL](https://eeslindia.org/en/about-us/#:~:text=Energy%20Efficiency%20Services%20Limited%20(EESL)%20is%20promoted%20by%20Ministry%20of,POWERGRID%20Corporation%20of%20India%20Limited.). The company's mobile application can be used to purchase rides that are similar to Uber, Ola Cabs and Lyft. The company advertises itself as the 100% electric mobility solution in the world. The company uses all electric cars with their own branding on it.
+
+## ***7. Vogo***
+Vogo is an Indian-based bike rental service company that offers [dockless](https://en.wikipedia.org/wiki/Scooter-sharing_system) scooters and motorcycles on rent. The company was founded in 2016 by Anand Ayyadurai and Padmanabhan Balakrishnan. It is headquartered in Bangalore, India, and operates in over five cities in India.
+
+### ***Services & Business Model***
+Vogo's business model is based on offering two-wheeler rentals on an hourly, daily, weekly, or monthly basis. Users can book a ride using the Vogo app and pick up the bike from a designated parking spot or have it delivered to their doorstep. The company offers helmets and other safety gear for rent as well. Vogo currently operates a fleet of both conventional and electric two-wheelers. While Vogo has expressed an interest in transitioning towards electric vehicles (EVs) to promote sustainable mobility, their current fleet includes both gasoline-powered and electric two-wheelers.
+### ***Expansion***
+Vogo is currently operating with fleet of both conventional or electric two-wheelers but they are mainly focusing on dockless area so whey are shifting their infrastructure towards Ev's
+### ***Funding***
+Vigi has raised a tital of $191M in funding over 13 rounds. Their latest funding was raised on Feb 18,2021 from a Series C round.
+
+## ***8. Yulu***
+Yulu is an Indian bike-sharing company that offers dockless bicycles and electric bikes for rent. The company was founded in 2017 by Amit Gupta, Naveen Dachuri, Hemant Gupta, and RK Mishra. It is headquartered in Bangalore, India, and currently operates in several cities across India. Main is to improve traffic congestion and air pollution in urban India.
+
+### ***Services & Business Model***
+Yulu's business model is based on providing an affordable, sustainable, and eco-friendly mode of transportation for short trips in urban areas. The company offers bicycles and electric bikes that can be rented through their mobile app. Users can locate a bike near their location, unlock it using the app, and ride to their destination. After completing their trip, they can park the bike at a designated parking area or Yulu zone
+
+### ***Expansion***
+Yulu has partnered with various organizations to promote sustainable mobility and reduce traffic congestion. For example, the company has partnered with the Indian Railways to offer bike-sharing services at railway stations. They have also partnered with several municipal corporations and educational institutions to provide bike-sharing services in these areas.
+### ***Funding***
+Yulu has received funding from various investors, including Blume Ventures, 3one4 Capital, and Bajaj Auto. Yulu has raised a total of $118.2M in fundings over 7 rounds. Latest funding was raised on Nov 14,2022 from a Debt Financing round.
+## ***9. Lyft***
+Lyft is a transportation network company based in San Francisco, California. It was founded in 2012 by Logan Green and John Zimmer. Lyft operates a mobile app that connects riders with drivers for ridesharing services. It is like Uber ,ola but also includes ride sharing like carpooling etc. 
+### ***Services & Business Modle***
+Lyft's business model is based on providing affordable, convenient, and safe transportation services to its customers. The company offers a range of services, including standard rides, shared rides, luxury rides, and bike-sharing services. Customers can book rides through the Lyft app and track the location of their driver in real-time.
+
+### ***Expansion***
+Lyft operates in over 600 cities in the United States and Canada. The company has also expanded into other transportation services, including electric scooters and autonomous vehicles.
+### ***Issues***
+Lyft has faced a number of regulatory and legal challenges over the years, particularly in relation to the classification of its drivers as independent contractors rather than employees. The company has also faced criticism over safety concerns, particularly related to the background checks and training provided to its drivers.
+### ***Improvements***
+Despite these challenges, Lyft has experienced significant growth since its launch. The company went public in 2019 and has continued to expand its operations and services. Lyft has also made a commitment to sustainability and reducing its carbon footprint. The company has launched various initiatives to promote electric vehicles and reduce the environmental impact of its operations.
+
+
 
 
 
